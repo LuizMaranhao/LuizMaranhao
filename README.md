@@ -1,29 +1,43 @@
-<h1 align="center">Oi 👋, Eu sou Luiz Maranhão</h1>
-<h3 align="center">Um desenvolvedor Front-end apaixonado por criar experiências visuais premium e interfaces de alto impacto</h3>
+<div align="center">
+  <h1>Oi 👋, Eu sou Luiz Maranhão</h1>
+  <p>Desenvolvedor Front-end | Especialista em Interfaces Premium & UI/UX</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmaranhao&label=Profile%20views&color=0e75b6&style=flat" alt="luizmaranhao" /> </p>
+  <a href="https://linkedin.com/in/luiz-maranhão-9b57241b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:luizfmaranhao2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.com/users/luizmaranhao._81178" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
 
-- 🔭 Atualmente trabalhando em: [Portfólio Pessoal](https://github.com/LuizMaranhao/Portf-lio---Luiz-Maranh-o)
+---
 
-- 🌱 Atualmente aprendendo: **JavaScript Avançado e React.js**
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando no meu [Portfólio Pessoal](https://github.com/LuizMaranhao/Portf-lio---Luiz-Maranh-o)
+- 🌱 Aprimorando conhecimentos em **JavaScript Avançado e React.js**
+- 💬 Especialista em: **HTML5, CSS3, UI/UX e Design Responsivo**
+- ⚡ Fato curioso: Focado em transformar código em experiências visuais de alto impacto
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/LuizMaranhao](https://github.com/LuizMaranhao)
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
-- 💬 Pergunte-me sobre: **HTML5, CSS3, UI/UX e Design Responsivo**
+---
 
-- 📫 Como me encontrar: **luizfmaranhao2003@gmail.com**
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmaranhao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmaranhao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luiz-maranhão-9b57241b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-maranhão-9b57241b3/" height="30" width="40" /></a>
-<a href="https://discord.gg/luizmaranhao._81178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="luizmaranhao._81178" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizmaranhao&show_icons=true&locale=en&layout=compact" alt="luizmaranhao" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizmaranhao&show_icons=true&locale=en" alt="luizmaranhao" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizmaranhao&" alt="luizmaranhao" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizmaranhao&theme=dracula" alt="GitHub Streak" />
+</div>
