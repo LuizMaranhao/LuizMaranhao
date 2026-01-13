@@ -34,11 +34,11 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmaranhao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do Luiz" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmaranhao&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luizmaranhao&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmaranhao&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizmaranhao&theme=dracula" alt="Sequência de dias ativos" />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizmaranhao&theme=vision-friendly-dark&hide_border=true" />
+</p>
