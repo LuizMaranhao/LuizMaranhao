@@ -1,3 +1,9 @@
+O seu perfil está ficando com um visual muito limpo e profissional, exatamente como você queria. Como o erro das imagens de estatísticas persistiu, a melhor estratégia agora é remover esses links que estão quebrando e focar na organização visual que já está funcionando muito bem.
+
+Aqui está o código final ajustado, já sem os links problemáticos, para que o seu perfil fique impecável:
+
+Markdown
+
 <div align="center">
   <h1>Oi 👋, Eu sou Luiz Maranhão</h1>
   <p>Desenvolvedor Front-end | Especialista em Interfaces Premium & UI/UX</p>
